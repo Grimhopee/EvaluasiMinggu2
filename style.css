@@ -383,7 +383,7 @@ button[type="submit"]:hover {
   opacity: 0.7;
 }
 
-.fa-twitter {
+.fa-discord {
   background: #55acee;
   color: white;
 }
@@ -517,4 +517,5 @@ button[type="submit"]:hover {
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
+
 

@@ -388,8 +388,8 @@ button[type="submit"]:hover {
   color: white;
 }
 
-.fa-youtube {
-  background: #bb0000;
+.fa-spotify {
+  background: #0ea026;
   color: white;
 }
 
@@ -517,5 +517,6 @@ button[type="submit"]:hover {
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
+
 
 

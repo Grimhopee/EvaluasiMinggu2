@@ -522,6 +522,17 @@ button[type="submit"]:hover {
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
+@media screen and (max-width: 360px) {
+  nav a {
+    font-size: 0.85rem;
+    padding: 6px;
+  }
+  .bahan3 p,
+  .bahan4 p {
+    font-size: 0.9rem;
+  }
+}
+
 
 
 

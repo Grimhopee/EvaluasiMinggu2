@@ -354,7 +354,7 @@ button[type="submit"] {
   color: #fff;
   border: none;
   border-radius: 6px;
-  padding: 5px 3px;
+  padding: 5px 45px;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
@@ -522,6 +522,7 @@ button[type="submit"]:hover {
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
+
 
 
 

@@ -118,7 +118,6 @@ nav img {
   background-color: rgba(54, 54, 54, 0.3);
   padding: 20px;
   font-size: 30px;
-  text-align: center;
 }
 
 .bahan1 {
@@ -146,7 +145,7 @@ nav img {
 .bahan3 audio {
   display: inline-block;
   vertical-align: middle;
-  margin-left: 8px;
+  margin-top: 30px;
 }
 /* Project Section */
 .project-section {
@@ -523,6 +522,7 @@ button[type="submit"]:hover {
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
+
 
 
 

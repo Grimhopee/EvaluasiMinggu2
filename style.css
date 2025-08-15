@@ -376,7 +376,6 @@ button[type="submit"]:hover {
   border-radius: 25px;
   text-align: center;
   text-decoration: none;
-  margin-right: 50px;
 }
 
 .fa:hover {
@@ -533,6 +532,7 @@ button[type="submit"]:hover {
     font-size: 0.9rem;
   }
 }
+
 
 
 

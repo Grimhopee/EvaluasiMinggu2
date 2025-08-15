@@ -30,7 +30,7 @@ body {
 
 /* Background Image */
 .bg-image {
-  background-image: url(../Day2/Resource/riobg.gif);
+  background-image: url(/Resource/riobg.gif);
   filter: blur(8px);
   -webkit-filter: blur(8px);
   position: fixed;
@@ -517,3 +517,4 @@ button[type="submit"]:hover {
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
+

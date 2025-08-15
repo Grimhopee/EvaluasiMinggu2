@@ -6,6 +6,7 @@
 }
 html {
   scroll-behavior: smooth;
+  min-widht:720px;
 }
 /* Body */
 body {
@@ -532,6 +533,7 @@ button[type="submit"]:hover {
     font-size: 0.9rem;
   }
 }
+
 
 
 
